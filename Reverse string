@@ -1,0 +1,11 @@
+def splitx(b):
+    x = input('Please enter a long string of words here:\n')
+    splitx = x.split()
+    b = []
+    for a in splitx:
+        while a in splitx:
+            b.append(splitx[-1])
+            splitx.remove(splitx[-1])
+    return " ".join(b)
+
+splitx(b)
