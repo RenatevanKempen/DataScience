@@ -1,0 +1,34 @@
+#The assignment: 
+Use the BeautifulSoup and requests Python packages to print out a list of all the article titles on the New York Times homepage.
+
+#Their solution:
+import requests
+from bs4 import BeautifulSoup
+ 
+base_url = 'http://www.nytimes.com'
+r = requests.get(base_url)
+for story_heading in soup.find_all(class_="story-heading"): 
+    if story_heading.a: 
+        print(story_heading.a.text.replace("\n", " ").strip())
+    else: 
+        print(story_heading.contents[0].strip())
+        
+
+
+#for me this solution didn't seem to work as on the site they have replaced 'storyheading' with 'css-1w0yruz esl82me0' 
+#(different code per article title). 
+
+#so my try:
+import requests
+from bs4 import BeautifulSoup
+import string
+
+url = 'https://www.nytimes.com'
+r = requests.get(url)
+r_html = r.text
+soup = BeautifulSoup(r_html, 'html.parser')
+
+x = []
+for b in soup.find_all('h2'):
+    x.append(b.string)
+print(x)
