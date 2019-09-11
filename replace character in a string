@@ -1,0 +1,38 @@
+https://stackoverflow.com/questions/57886173/how-to-replace-a-in-a-column-with-a-string-ex-58-00-with-a-in-pytho/57886818#57886818
+
+#My question was:
+How to replace a ',' in a column with a string (ex '-58,00') with a '.' in python (like find&replace in excel)?
+
+#Additional information: 
+I'm trying to get more insights of my bank data. 
+I want to look at the total sum per category, but I can't seem to make a float of the amounts in the dataset.
+
+I've uploaded the data (csv-file) into a dataframe (bank), that looks something like this:
+
+ date        amount   category
+ 2018-09-01  -58,00   dinner 
+ 2018-09-02  -60,00   grocery
+ 2018-09-02  -115,00  clothing
+I've tried to use .replace and .astype(float), both didn't work
+
+#I've tried this formula, but it doesn't work (the x-values even get shuffled??): 
+
+#replace ',' with '.' in amount:
+def komma(x):
+    for x in bank['amount']:
+        x = list(set(x))
+        for a in x:
+            if a == ',':
+                a.replace(",",".")
+    return "".join(x)
+
+komma(x)
+bank.head()
+
+#my result with .replace(',','.') is no changes in the dataframe 
+#my result with .astype(float) was 
+#ValueError: could not convert string to float: '-58,00'
+
+#The correct code (thus the answer) was (thanks to Grzegorz Skibinski):
+df["amount"]=df["amount"].str.replace(",", ".").astype(float)
+#(no need for a loop here)
