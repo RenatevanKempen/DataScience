@@ -33,13 +33,9 @@ class Friend(Character):
   def get_kindness(self):
     return self.kindness
   
-  def hugg(self, kind_person):
-    if kind_person == self.kindness:
-        print("You got a big " + kind_person + " from " + self.name )
-        return True
-    else:
-        print(self.name + " doesn't want to " + kind_person)
-        return False
+  def hugg(self):
+    print("You got a big hugg from " + self.name )
+    
         
 class Enemy(Character):
   def __init__(self, char_name, char_description):
