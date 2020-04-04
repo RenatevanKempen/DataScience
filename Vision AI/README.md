@@ -1,7 +1,10 @@
 ![BAIME banner Linkedin](https://user-images.githubusercontent.com/47600826/73174265-9c3c5e80-4107-11ea-858b-c2c9f5304729.png)
 
 # Vision A.I. 
-This repo is used to collect all information I find interesting and usefull about Computer Vision
+This repo is used to collect all information I find interesting and usefull about Computer Vision.
+Should you have any information you want to share, contact me via [email](renate@baime.nl). 
+
+Thank you, Kind regards, Renate
 
 ## Computer Vision explained
 Computer vision is a field of study focused on the problem of helping computers to see.
