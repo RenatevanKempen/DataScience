@@ -2,9 +2,7 @@
 
 # Vision A.I. 
 This repo is used to collect all information I find interesting and usefull about Computer Vision.
-Should you have any information you want to share, contact me via [email](renate@baime.nl). 
-
-Thank you, Kind regards, Renate
+Should you have any information you want to share, contact me (Renate) via [email](renate@baime.nl). 
 
 ## Computer Vision explained
 Computer vision is a field of study focused on the problem of helping computers to see.
