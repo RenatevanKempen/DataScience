@@ -7,8 +7,19 @@ Hello to you all!
 My name is Renate van Kempen and this repo represents the culmination of my data science career learnings.
 
 My goal is to: 
-1. Map out the necessary skills a Data Scientist needs and uses daily (I'm convinced that I will never stop learning ;-))
+1. Map out the necessary skills a Data Scientist needs and uses daily
 2. Showcase all specific learnings
+
+### So far I've learned about:
+- OOP = Object Oriented Programming
+- Vision AI and Computer Vision
+- How to use TensorFlow in a project
+- Webscraping with Selenium, Scrapy and Beautiful Soup
+- NLP = Natural Language Processing
+
+I'm convinced that I will never stop learning ;-)!!
+
+Should you have anything that could be interesting, feel free to contact me via [email](renate@baime.nl)
 
 Kind Regards, Renate
 
