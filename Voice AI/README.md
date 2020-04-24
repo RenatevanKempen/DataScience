@@ -8,7 +8,7 @@ In this repo I'll share the code I've made (only for those projects that are not
 Also you will find information that I found helpfull to make all the bots here. 
 
 - [Good and clear tutorial](https://tutorials.botsfloor.com/dialogflow-fulfillment-webhook-tutorial-7cf4ceba0e5e) on how to make a webhook for Google Dialogflow using Python and NGrok
-- [Nice explanation](https://www.youtube.com/watch?v=WzccjhAuqBo) of the difference between follow-up and webhook in Google Dialogflow by [Naresh Ganatra](https://github.com/nareshganatra)
+- [Nice explanation](https://www.youtube.com/watch?v=WzccjhAuqBo) of the difference between regular follow-up's and webhook in Google Dialogflow by [Naresh Ganatra](https://github.com/nareshganatra)
 
 
 Should you have any tips or anything to add here, send me an [email](renate@baime.nl). 
