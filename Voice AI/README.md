@@ -12,8 +12,15 @@ Also you will find information that I found helpfull to make all the bots here.
 - [Various JSON formats](https://github.com/pragnakalp/dialogflow-webhook-response-libary-in-python) for webhook can be accessed via a simple import in Python. 
 - [A tutorial](https://www.pragnakalp.com/dialogflow-tutorial-create-fulfillment-webhook-using-python-django/) to create a fulfillment webhook for DialogFlow using Python and Django
 
+ 
+
 ## Acces to a web UI
 - You can easily subscribe and download a free plan for [ngrok here](https://ngrok.com/)
+
+You only need to install flask in Python first
+```python
+ !pip install flask
+ ```
 
 
 Should you have any tips or anything to add here, send me an [email](renate@baime.nl). 
