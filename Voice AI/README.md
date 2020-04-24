@@ -9,6 +9,11 @@ Also you will find information that I found helpfull to make all the bots here.
 
 - [Good and clear tutorial](https://tutorials.botsfloor.com/dialogflow-fulfillment-webhook-tutorial-7cf4ceba0e5e) on how to make a webhook for Google Dialogflow using Python and NGrok
 - [Nice explanation](https://www.youtube.com/watch?v=WzccjhAuqBo) of the difference between regular follow-up's and webhook in Google Dialogflow by [Naresh Ganatra](https://github.com/nareshganatra)
+- [Various JSON formats](https://github.com/pragnakalp/dialogflow-webhook-response-libary-in-python) for webhook can be accessed via a simple import in Python. 
+- [A tutorial](https://www.pragnakalp.com/dialogflow-tutorial-create-fulfillment-webhook-using-python-django/) to create a fulfillment webhook for DialogFlow using Python and Django
+
+## Acces to a web UI
+- You can easily subscribe and download a free plan for [ngrok here](https://ngrok.com/)
 
 
 Should you have any tips or anything to add here, send me an [email](renate@baime.nl). 
