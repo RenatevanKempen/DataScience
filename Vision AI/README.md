@@ -24,3 +24,5 @@ Computer Vision nowadays is mainly used for facial recognition. Think about the 
 ## 3D object recognition
 In computer vision, 3D object recognition involves recognizing and determining 3D information, such as the pose, volume, or shape, of user-chosen 3D objects in a photograph or range scan. Typically, an example of the object to be recognized is presented to a vision system in a controlled environment, and then for an arbitrary input such as a video stream, the system locates the previously presented object.
 
+Should you have any questions, let me know via [email](renate@baime.nl).
+Kind regards, Renate
