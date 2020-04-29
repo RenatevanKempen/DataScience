@@ -13,6 +13,7 @@ My goal is to:
 ### So far I've learned about:
 - OOP = Object Oriented Programming
 - Vision AI and Computer Vision
+- Voice AI and building voicebots in DialogFlow with a webhook (Python)
 - How to use TensorFlow in a project
 - Webscraping with Selenium, Scrapy and Beautiful Soup
 - NLP = Natural Language Processing
