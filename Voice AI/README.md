@@ -19,7 +19,7 @@ Also you will find information that I found helpfull to make all the bots here.
 
 You only need to install flask in Python first
 ```python
- !pip install flask
+ pip install flask
  ```
 
 
