@@ -4,6 +4,9 @@
 
 In this repo I'll store some interesting powerbi files I've found usefull for making dashboards for clients. 
 
+## Useful links
+- [Datastories - templates and examples PowerBI Dashboards](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+
 Hope these tips will help you too. 
 
 Kind regards, 
