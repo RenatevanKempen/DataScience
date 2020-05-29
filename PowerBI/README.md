@@ -6,6 +6,7 @@ In this repo I'll store some interesting powerbi files I've found usefull for ma
 
 ## Useful links
 - [Datastories - templates and examples PowerBI Dashboards](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+- [Using measure to get relative date slicer](https://community.powerbi.com/t5/Desktop/Using-relative-date-slicer-to-get-last-3-full-weeks/td-p/517420)
 
 Hope these tips will help you too. 
 
