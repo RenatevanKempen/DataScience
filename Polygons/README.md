@@ -9,6 +9,8 @@ My name is Renate van Kempen and this repo explains more about the use of polygo
 - [Arcgis Building Polygons](https://developers.arcgis.com/javascript/latest/sample-code/visualization-buildings-3d/index.html)
 - [Building Footprints by Microsoft](https://www.microsoft.com/en-us/maps/building-footprints)
 
+## Super cool examples of 3D plots
+- [Clearly explained 3D in MatplotLib)(https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
 
 
 Should you have anything that could be interesting, feel free to contact me via [email](renate@baime.nl)
