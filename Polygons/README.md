@@ -10,7 +10,8 @@ My name is Renate van Kempen and this repo explains more about the use of polygo
 - [Building Footprints by Microsoft](https://www.microsoft.com/en-us/maps/building-footprints)
 
 ## Super cool examples of 3D plots
-- [Clearly explained 3D in MatplotLib)(https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
+- [Clearly explained 3D in MatplotLib](https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
+- [3d Cube and sphere via Python](https://python-decompiler.com/article/2012-06/python-matplotlib-plotting-a-3d-cube-a-sphere-and-a-vector)
 
 
 Should you have anything that could be interesting, feel free to contact me via [email](renate@baime.nl)
