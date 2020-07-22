@@ -17,6 +17,7 @@ My goal is to:
 - How to use TensorFlow in a project
 - Webscraping with Selenium, Scrapy and Beautiful Soup
 - NLP = Natural Language Processing
+- Polygons
 
 I'm convinced that I will never stop learning ;-)!!
 
