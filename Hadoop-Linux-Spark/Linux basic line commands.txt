@@ -1,8 +1,0 @@
-Command Line Basics
-
-cd – This command changes your current directory that you are working within.
-ls – This lists the files within the directory we’re currently in.
-less – This is a way to quickly view the contents of a file. Press the “Q” key to exit less
-tar – This command is used to decompress zipped-up files that we download from the Internet. It’s like unzipping.
-wget – This retrieves a file that’s hosted on a web server. Most of the course materials are obtained used wget.
-vi – This is a very basic text editor included with Linux, that we’ll use for things like editing configuration files. When you’re in vi, you need to hit the “I” key to enter “insert mode”, which lets you actually edit things. When you’re done editing, press ESC to leave insert mode. Then, you can type commands such as :wq to write your changes and quit vi.
