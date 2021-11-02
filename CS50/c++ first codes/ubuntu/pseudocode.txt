@@ -1,0 +1,10 @@
+Ask the user for input on the height
+if the heigt is smaller than 1 and bigger than 8
+prompt for another input
+if the height is between 1 and 
+return the piramid with the requested height
+make sure that the width is adapted to create a piramid
+if the height is 1 
+return only one hash
+if the height is less than one 
+prompt the user for a new input for the height
