@@ -1,0 +1,25 @@
+sort1 uses: bubble sort
+
+real    0m0.120s (5000 random)
+real    0m0.017s (5000 sorted)
+real    0m0.109s (5000 reversed)
+
+How do you know?: as the sorted takes less time than the non sorted or the reversed
+
+
+sort2 uses: merge sort
+
+real    0m0.011s (5000 random)
+real    0m0.011s (5000 sorted)
+real    0m0.012s (5000 reversed)
+
+How do you know?: As it takes about the same amount of time for sorted as for unsorted or reversed files, only much less than the other two
+
+sort3 uses: selection sort
+
+real    0m0.035s (5000 random)
+real    0m0.035s (5000 sorted)
+real    0m0.111s (5000 reversed)
+
+
+How do you know?: As it takes the same amount of time for sorted as for unsorted and much more time for reversed files (almost similar to the bubble sort). Also far more than the merge sort
